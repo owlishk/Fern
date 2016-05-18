@@ -1,0 +1,10 @@
+img{
+ width: 600px; 
+ height: auto;
+ border-radius: 20px;
+}
+
+figcaption{
+ width: 560px;
+ margin: 20px;
+}
